@@ -15,7 +15,7 @@ class FormInputClass extends Component {
   
   render() {
     const { input } = this.props
-    return <input type="text" value={input} onChange={this.handleChange} />
+    return <input type="text" value={input} onChange={this.handleChange} placeholder="Type anything text" />
   }
 }
 
