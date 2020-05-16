@@ -1,9 +1,9 @@
 import React from 'react';
 
-import SimpleFunc from './SimpleFunc'
-import SimpleClass from './SimpleClass'
-import WithStateClass from './WithStateClass'
-import WithStateHook from './WithStateHook'
+import SimpleFunc from './components/SimpleFunc'
+import SimpleClass from './components/SimpleClass'
+import WithStateClass from './components/WithStateClass'
+import WithStateHook from './components/WithStateHook'
 
 function App() {
   return (
